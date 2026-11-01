@@ -70,4 +70,6 @@ code .
 
 ## 👤 Portfolio Author
 - **Dasari Pallavi**
-- [Connect with me on LinkedIn](PASTE_YOUR_LINKEDIN_URL_HERE)
+- [Connect with me on LinkedIn]
+
+https://www.linkedin.com/in/dasari-pallavi/

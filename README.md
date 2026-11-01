@@ -1,2 +1,5 @@
 # social-media-influencer-analytics
-Analyzing influencer data to find high-impact accounts using Python and Tableau
+
+
+
+https://public.tableau.com/app/profile/pallavi.dasari5644/viz/SocialMediaInfluencerAnalytics/Dashboard1?publish=yes
